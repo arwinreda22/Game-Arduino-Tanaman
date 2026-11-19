@@ -1,0 +1,6 @@
+{
+  "name": "ArduLab — Media Pembelajaran Arduino Interaktif",
+  "description": "Media pembelajaran interaktif Arduino berbasis web dengan simulasi sirkuit, sensor populer, proyek siram tanaman otomatis, dan latihan pemrograman langkah demi langkah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
